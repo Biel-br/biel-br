@@ -1,7 +1,7 @@
 # 🐺 The Witcher | Bestiary & Chronicles
 
 <p align="center">
-  <img src="https://giphy.com/gifs/3-witcher-medalion-SGfWWpPV6LO92" width="300" alt="Witcher Wolf Medallion" />
+  <iframe src="https://giphy.com/embed/SGfWWpPV6LO92" width="343" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3-witcher-medalion-SGfWWpPV6LO92">via GIPHY</a></p>
 </p>
 
 <p align="center">
