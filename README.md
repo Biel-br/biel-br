@@ -61,18 +61,16 @@
 
 ### 📊 Witcher Contracts & Trophies: GitHub Stats
 
-O tema `gruvbox` ou `tokyonight` com acentos em vermelho/âmbar combina naturalmente com a paleta sombria e dourada de *The Witcher 3*.
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&title_color=e74c3c&text_color=d1d5db&icon_color=f39c12" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Biel-br&show_icons=true&theme=tokyonight&hide_border=true&title_color=e74c3c&text_color=d1d5db&icon_color=f39c12" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&ring=e74c3c&fire=e74c3c&currStreakLabel=e74c3c" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biel-br&theme=tokyonight&hide_border=true&ring=e74c3c&fire=e74c3c&currStreakLabel=e74c3c" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&title_color=e74c3c&text_color=d1d5db" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biel-br&layout=compact&theme=tokyonight&hide_border=true&title_color=e74c3c&text_color=d1d5db" alt="Top Languages" />
 </p>
 
 ---
