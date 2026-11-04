@@ -1,7 +1,7 @@
 # 🐺 The Witcher | Bestiary & Chronicles
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenF2c3c5dW5yZjdpOHQydDVrdm1uZXF3eWVrd2t4Znd4aGZ6ZmtzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eKieUzSmOxaf547T1p/giphy.gif" width="280" alt="Witcher Wolf Medallion" />
+  <img src="https://giphy.com/gifs/3-witcher-medalion-SGfWWpPV6LO92" width="300" alt="Witcher Wolf Medallion" />
 </p>
 
 <p align="center">
@@ -11,6 +11,7 @@
 > *"Mistakes? None. Only lessons learned the hard way on the Path."*
 
 ---
+
 ### 📜 Quest Log / About Me
 
 * 🗡️ **Class:** Code Witcher & Systems Alchemist
