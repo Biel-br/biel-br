@@ -1,16 +1,12 @@
 # 🐺 The Witcher | Bestiary & Chronicles
 
-```text
-       /\      /\
-      /  \    /  \
-     / /\ \  / /\ \
-    | |  \ \/ /  | |
-    | |   \  /   | |
-     \ \  /  \  / /
-      \ \/ /\ \/ /
-       \__/__\__/
-   [ SCHOOL OF THE WOLF ]
-```
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenF2c3c5dW5yZjdpOHQydDVrdm1uZXF3eWVrd2t4Znd4aGZ6ZmtzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eKieUzSmOxaf547T1p/giphy.gif" width="280" alt="Witcher Wolf Medallion" />
+</p>
+
+<p align="center">
+  <strong>[ SCHOOL OF THE WOLF ]</strong>
+</p>
 
 > *"Mistakes? None. Only lessons learned the hard way on the Path."*
 
